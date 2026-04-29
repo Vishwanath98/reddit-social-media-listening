@@ -1,5 +1,9 @@
 # Social Media Listening for Reddit Comments
 
+> **Collaborative academic project** with [@eshita-ds](https://github.com/eshita-ds)  
+> **My contributions:** Project ideation, system architecture, data engineering pipeline, PySpark large-scale processing, AWS EC2 Kafka broker setup and configuration, and real-time streaming infrastructure.
+
+
 ## Introduction
 
 Social media has become a central part of daily life. Research by Pew Research Center shows nearly 70% of Americans use social media, with YouTube and Reddit experiencing notable growth as of 2021. Around 22% of Americans use Reddit, spending an average of 24 minutes daily on the platform. Reddit’s unique subreddits foster interest-based, text-focused discussions, making it a valuable channel for analyzing user behavior and sentiment. Its anonymity often results in honest discourse, providing rich data for understanding consumer opinions and preferences.
@@ -142,7 +146,7 @@ Run the app using the following command
 
 MIT License
 
-Copyright (c) 2024 Eshita Gupta
+Copyright (c)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
